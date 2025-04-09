@@ -1,0 +1,30 @@
+﻿"Submission ID","Respondent ID","Submitted at","What technical experience do you have?
+","Which artificial intelligence (AI) safety fields are you familiar with?
+","Which artificial intelligence (AI) safety fields are you familiar with?
+ (AI Governance)","Which artificial intelligence (AI) safety fields are you familiar with?
+ (AI Alignment)","Which artificial intelligence (AI) safety fields are you familiar with?
+ (AI Interpretability)","Which artificial intelligence (AI) safety fields are you familiar with?
+ (Reinforcement Learning)","Rate your familiarity with reinforcement learning from 1 to 5. (being  not familiar and 5 being very familiar)
+","Which of the following failure modes in reinforcement learning are you familiar with?
+","Which of the following failure modes in reinforcement learning are you familiar with?
+ (Goal Misalignment)","Which of the following failure modes in reinforcement learning are you familiar with?
+ (Reward Hacking)","Which of the following failure modes in reinforcement learning are you familiar with?
+ (None)","Which of the following failure modes in reinforcement learning are you familiar with?
+ (Other)","Did you find this resource useful?
+","If you found this resource useful, why?","If you did not find this resource useful, why not?","How easy was it to understand the various terms and terminologies presented? (With 1 being very easy to understand and 5 being difficult to understand)
+","What terms were difficult to understand? (Please separate each term with a comma)
+","Did you find anything confusing? If so, please explain.
+","Suggestions to improve this resource? Areas for enhancement?
+","Who would you recommend this resource to? (You may select multiple)
+"
+"Ekq1ljB","jXL194","2025-04-05 22:53:13","None","AI Interpretability",false,false,true,false,1,"None",false,false,true,false,"No",,"i thought it would be more interactive but it wasn't. i didn't get to see the machine actually train and learn",4,"none i can think of","no","make it more interactive ","Individuals interested in personal growth"
+"jaexbN1","vVXW1D","2025-04-06 06:18:14","Done some courses, some programming experience in machine learning (ML)","AI Alignment, AI Interpretability, AI Governance, Reinforcement Learning",true,true,true,true,4,"Goal Misalignment, Reward Hacking",true,true,false,false,"Yes","Because ",,5,,,,"Teachers looking for classroom resources"
+"aQOGByy","qXW1KO","2025-04-06 07:17:09","None","AI Alignment",false,true,false,false,2,"Goal Misalignment",true,false,false,false,"Yes","I could relate to the example of Blackjack since I and up losing the games",,5,"Exploration rate ",,"More pics maybe ","Teachers looking for classroom resources"
+"2EjrMkA","OKJ76a","2025-04-06 10:20:58","Watched videos or read articles related to AI, have a rough idea of reinforcement learning (RL)","AI Governance",true,false,false,false,3,"None",false,false,true,false,"Yes","I learnt about RL thanks to you Siya!",,4,"Reward hacking",,,"Teachers looking for classroom resources"
+"yPXxkYg","QpJpG7","2025-04-06 14:26:34","Have a university degree, work in the field on a regular basis","Reinforcement Learning, AI Governance",true,false,false,true,4,"Goal Misalignment",true,false,false,false,"Yes","Definitions are useful. Being able to play with the parameters also allows more interactivity and exploration. The explanations of the failure modes along with the examples was really interesting.",,5,"None","It would have been useful to know what would be a good expected value for the average reward in the blackjack training. I don't know if it is possible to get to a positive average reward value during training.","If the information is available, showing the optimal parameter values that would give a better result for the training would be good.
+The tone of the prose is not consistent either, there are moments when it turns very familiar and doesn't match the rest of the resource. (Example: ""we will be cooked"")","High school students preparing for college, Teachers looking for classroom resources, Individuals interested in personal growth"
+"WOJMvXQ","qXYPW2","2025-04-07 03:31:28","Heard of artificial intelligence (AI), know some basic concepts","AI Alignment, Reinforcement Learning, AI Interpretability, AI Governance",true,true,true,true,3,"Reward Hacking, Goal Misalignment",true,true,false,false,"No",,"Im not sure my own",3,"Nothing",,,"High school students preparing for college, University graduates looking for advanced studies, Teachers looking for classroom resources, Professionals seeking career development"
+"EkqBa9l","qXjEB5","2025-04-07 11:51:13","None","AI Interpretability, Reinforcement Learning",false,false,true,true,2,"None",false,false,true,false,"No",,"Not that I didn't find it not useful, just informative.",1,,,,"Individuals interested in personal growth, Professionals seeking career development, Teachers looking for classroom resources, High school students preparing for college"
+"LZD52Vv","WXD0Ee","2025-04-07 16:41:32","Watched videos or read articles related to AI, have a rough idea of reinforcement learning (RL)","AI Governance, AI Alignment, Reinforcement Learning",true,true,false,true,3,"None",false,false,true,false,"Yes","I think it explains concepts in a pretty simple way to understand for the general public!",,2,,,,"High school students preparing for college, Teachers looking for classroom resources"
+"PdR8MD0","qXoYLk","2025-04-07 17:16:39","None","AI Governance",true,false,false,false,1,"None",false,false,true,false,"Yes","It explained concepts I had heard of but was not familiar with, and some I had not heard of, very clearly!",,4,,,,"Professionals seeking career development, Individuals interested in personal growth"
+"9qNpkP4","VXbp7g","2025-04-07 21:51:37","Done some courses, some programming experience in machine learning (ML)","AI Governance, Reinforcement Learning",true,false,false,true,3,"None",false,false,true,false,"Yes","Defined key terms and introduced with an example",,4,,,,"High school students preparing for college, Teachers looking for classroom resources, Individuals interested in personal growth"
